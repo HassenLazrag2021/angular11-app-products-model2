@@ -12,7 +12,7 @@
       "name": "p",
       "price": "90",
       "quantity": 0,
-      "selected": true,
+      "selected": false,
       "available": true,
       "id": 2
     },
